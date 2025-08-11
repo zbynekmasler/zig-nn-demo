@@ -229,7 +229,7 @@ for (0..OutputSize) |o| {
 }
 ```
 
-> More code (training loop, gradient updates) is in `src/nn/base.zig`. The full repo includes a live Vulkan visualizer and a data/CSV layer.
+> More code (training loop, gradient updates) is in `src/nn/base.zig`. The full repo includes a live GLFW visualizer.
 
 ---
 
