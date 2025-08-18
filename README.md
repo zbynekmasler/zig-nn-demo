@@ -1,6 +1,6 @@
 # Zig Neural Network Demo (Public Preview)
 
-> **Status:** Public demo for the Dataclair application.
+> **Status:** Public demo
 > The **full repository** (modules, history, experiments, renderers) is available **on request**.
 
 ## ✨ What this is
